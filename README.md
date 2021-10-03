@@ -15,7 +15,7 @@ I'm yama, a French 🥖 student in computer science 👨‍🎓, I love to learn
   
 
 <br/>    
-- 🔭 I’m currently working on [rmdbot.upjv](https://github.com/Nero611/rmdbot.upjv), Role + v3 and other projects  
+- 🔭 I’m currently working on rmdbot.upjv, Role + v3 and other projects  
   
 
 - 🌱 I’m currently learning C++ and Game Hacking  
