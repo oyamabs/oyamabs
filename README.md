@@ -16,7 +16,7 @@ I'm yama, a French 🥖 student in computer science 👨‍🎓, I love to learn
 
 <br/>    
 
-- 🔭 I’m currently working on rmdbot.upjv, Role + v3 and other projects  
+- 🔭 I’m currently working on ReverseClub
   
 
 - 🌱 I’m currently learning C++ and Game Hacking  
@@ -25,10 +25,10 @@ I'm yama, a French 🥖 student in computer science 👨‍🎓, I love to learn
 - ❓ Ask me about anything!  
   
 
-- ⚡ Fun fact: I hate most of social media and I'm only active on Reddit. And I love coffee btw. ☕  
+- ⚡ Fun fact: I like Doom
   
 
-- 📫 How to reach me: Discord (currently : `yama （やま）#1337`)  
+- 📫 How to reach me: Discord (currently : `oyamabs`)  
   
 
 <br/>  
@@ -37,9 +37,9 @@ I'm yama, a French 🥖 student in computer science 👨‍🎓, I love to learn
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -74,15 +74,3 @@ I'm yama, a French 🥖 student in computer science 👨‍🎓, I love to learn
   
 
 <br/>  
-
-
-
-### Gimme your money !  
-<div align="center">
-            <a href="https://paypal.me/oyamabs" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
